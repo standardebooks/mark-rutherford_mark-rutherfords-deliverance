@@ -8,7 +8,6 @@
 	-epub-hyphens: none;
 }
 
-[epub|type~="epigraph"] em,
 [epub|type~="epigraph"] i{
 	font-style: normal;
 }
@@ -59,10 +58,6 @@ section[epub|type~="epigraph"] > *{
 /* end full-page epigraphs */
 
 /* Begin LETTERS */
-[epub|type~="z3998:salutation"] + p{
-	text-indent: 0;
-}
-
 [epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 }
@@ -96,6 +91,10 @@ p span.i8{
 /* end verse */
 
 /* Begin EXTRAS */
+abbr[epub|type~="se:era"]{
+	font-variant: all-small-caps;
+}
+
 footer{
 	margin-top: 1em;
 	text-align: right;
