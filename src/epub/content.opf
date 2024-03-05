@@ -32,9 +32,12 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85112657</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A man struggles to makes sense of his experiences in his hard-pressed London life.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/mark-rutherford"&gt;Mark Rutherford’s&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/mark-rutherford/the-autobiography-of-mark-rutherford"&gt;Autobiography&lt;/a&gt;&lt;/i&gt; concludes on the sad note of the death of his two close friends, and his settling to the life of a journalist in London, having abandoned his previous calling as a dissenting minister. His (fictional) editor, Reuben Shapcott, has managed to track down the sequel—mentioned as having been lost at the end of the &lt;i&gt;Autobiography&lt;/i&gt;—and this manuscript is now presented as Mark Rutherford’s “deliverance,” although delivered from what and to what remains unstated.&lt;/p&gt;
+			&lt;p&gt;Rutherford has settled into a dreary London life, relieved on Sundays by a meeting established with a friend that seeks to improve the lot of the lower-class working poor whose desperate circumstances strike Rutherford so deeply. As these efforts unfold, some threads from his past life re-emerge into his present and are taken up again, refining his peculiar set of commitments. In spite of the confessional nature of the narrative, just what constitutes those beliefs remains elusive, except for the clear point that reconciliation, for Rutherford, has to do with the recovery of contentment in a broken world.&lt;/p&gt;
+			&lt;p&gt;As with the &lt;i&gt;Autobiography&lt;/i&gt;, the uneasy blend of fact and fiction remains. In his book &lt;i&gt;Some Late Victorian Attitudes&lt;/i&gt;, the literary critic David Daiches wrote an extended essay on Rutherford’s work (the pen name of William Hale White). Daiches considered the &lt;i&gt;Deliverance&lt;/i&gt; with its predecessor “the finest and most sensitive account of the Victorian crisis of faith and its resolution.” Even more, he judged that, in these works, “William Hale White invented a new kind of novel, that is a kind of fable that is much richer and more complex than a fable, that is autobiography yet which transcends autobiography,⁠ ⁠… that is a ‘novel of ideas’ while remaining a quietly honest narrative deeply human in its significance and genuinely moving as a human document.”&lt;/p&gt;
+			&lt;p&gt;This edition of &lt;i&gt;Mark Rutherford’s Deliverance&lt;/i&gt; concludes with two essays added by Shapcott from among Rutherford’s papers, sometimes omitted in reprints. Both appendices inform the reader’s understanding of Rutherford’s beliefs.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5338</dc:source>
@@ -51,10 +54,11 @@
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Jan Veth</dc:contributor>
+		<meta property="file-as" refines="#artist">Veth, Jan</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Jan Pieter Veth</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jan_Veth</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n85158479</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Price</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Price, David</meta>
