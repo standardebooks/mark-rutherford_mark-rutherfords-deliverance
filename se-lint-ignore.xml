@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="epigraph.xhtml">
+		<ignore>
+			<code>t-054</code>
+			<reason>These epigraphs are only partially non-English.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
