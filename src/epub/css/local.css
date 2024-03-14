@@ -1,5 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+@namespace xml "http://www.w3.org/XML/1998/namespace";
 
 /* Begin ALL EPIGRAPHS */
 [epub|type~="epigraph"]{
@@ -8,7 +9,7 @@
 	-epub-hyphens: none;
 }
 
-[epub|type~="epigraph"] i{
+[epub|type~="epigraph"] p[xml|lang]{
 	font-style: normal;
 }
 
@@ -34,6 +35,10 @@ section[epub|type~="epigraph"] > *{
 	margin-top: 3em;
 	max-width: 80%;
 	text-align: initial;
+}
+
+[epub|type~="epigraph"] p + p{
+	text-indent: 0;
 }
 
 @supports(display: flex){
