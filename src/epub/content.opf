@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/mark-rutherford/mark-rutherfords-deliverance</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-03-14T04:11:48Z</dc:date>
+		<meta property="dcterms:modified">2024-03-14T04:11:48Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -34,9 +34,9 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A man struggles to makes sense of his experiences in his hard-pressed London life.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/mark-rutherford"&gt;Mark Rutherford’s&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/mark-rutherford/the-autobiography-of-mark-rutherford"&gt;Autobiography&lt;/a&gt;&lt;/i&gt; concludes on the sad note of the death of his two close friends, and his settling to the life of a journalist in London, having abandoned his previous calling as a dissenting minister. His (fictional) editor, Reuben Shapcott, has managed to track down the sequel—mentioned as having been lost at the end of the &lt;i&gt;Autobiography&lt;/i&gt;—and this manuscript is now presented as Mark Rutherford’s “deliverance,” although delivered from what and to what remains unstated.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/mark-rutherford"&gt;Mark Rutherford’s&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/mark-rutherford/the-autobiography-of-mark-rutherford"&gt;Autobiography&lt;/a&gt;&lt;/i&gt; concludes on the sad note of the death of his two close friends, and on his settling into the life of a journalist in London, having abandoned his previous calling as a dissenting minister. His (fictional) editor, Reuben Shapcott, has managed to track down the sequel—mentioned as having been lost at the end of the &lt;i&gt;Autobiography&lt;/i&gt;—and this manuscript is now presented as Mark Rutherford’s “deliverance,” although a deliverance from what, and to what, remains unstated.&lt;/p&gt;
 			&lt;p&gt;Rutherford has settled into a dreary London life, relieved on Sundays by a meeting established with a friend that seeks to improve the lot of the lower-class working poor whose desperate circumstances strike Rutherford so deeply. As these efforts unfold, some threads from his past life re-emerge into his present and are taken up again, refining his peculiar set of commitments. In spite of the confessional nature of the narrative, just what constitutes those beliefs remains elusive, except for the clear point that reconciliation, for Rutherford, has to do with the recovery of contentment in a broken world.&lt;/p&gt;
-			&lt;p&gt;As with the &lt;i&gt;Autobiography&lt;/i&gt;, the uneasy blend of fact and fiction remains. In his book &lt;i&gt;Some Late Victorian Attitudes&lt;/i&gt;, the literary critic David Daiches wrote an extended essay on Rutherford’s work (the pen name of William Hale White). Daiches considered the &lt;i&gt;Deliverance&lt;/i&gt; with its predecessor “the finest and most sensitive account of the Victorian crisis of faith and its resolution.” Even more, he judged that, in these works, “William Hale White invented a new kind of novel, that is a kind of fable that is much richer and more complex than a fable, that is autobiography yet which transcends autobiography, … that is a ‘novel of ideas’ while remaining a quietly honest narrative deeply human in its significance and genuinely moving as a human document.”&lt;/p&gt;
+			&lt;p&gt;As with the &lt;i&gt;Autobiography&lt;/i&gt;, the uneasy blend of fact and fiction remains. In his book &lt;i&gt;Some Late Victorian Attitudes&lt;/i&gt;, the literary critic David Daiches wrote an extended essay on Rutherford’s work (as written under the pen name of William Hale White). Daiches considered the &lt;i&gt;Deliverance&lt;/i&gt; and its predecessor “the finest and most sensitive account of the Victorian crisis of faith and its resolution.” Even more, he judged that, in these works, “William Hale White invented a new kind of novel, that is a kind of fable that is much richer and more complex than a fable, that is autobiography yet which transcends autobiography, … that is a ‘novel of ideas’ while remaining a quietly honest narrative deeply human in its significance and genuinely moving as a human document.”&lt;/p&gt;
 			&lt;p&gt;This edition of &lt;i&gt;Mark Rutherford’s Deliverance&lt;/i&gt; concludes with two essays added by Shapcott from among Rutherford’s papers, sometimes omitted in reprints. Both appendices inform the reader’s understanding of Rutherford’s beliefs.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
@@ -44,8 +44,8 @@
 		<dc:source>https://catalog.hathitrust.org/Record/001776005</dc:source>
 		<!-- Fresh transciptions of preface, epigraph, and appendices -->
 		<dc:source>https://books.google.com/books?id=RHRbAAAAQAAJ</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">49875</meta>
+		<meta property="se:reading-ease.flesch">65.56</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mark-rutherford_mark-rutherfords-deliverance</meta>
 		<dc:creator id="author">Mark Rutherford</dc:creator>
 		<meta property="file-as" refines="#author">Rutherford, Mark</meta>
@@ -74,6 +74,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
