@@ -45,7 +45,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/001776005</dc:source>
 		<!-- Fresh transciptions of preface, epigraph, and appendices -->
 		<dc:source>https://books.google.com/books?id=RHRbAAAAQAAJ</dc:source>
-		<meta property="se:word-count">49875</meta>
+		<meta property="se:word-count">49874</meta>
 		<meta property="se:reading-ease.flesch">65.56</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mark-rutherford_mark-rutherfords-deliverance</meta>
 		<dc:creator id="author">Mark Rutherford</dc:creator>
